@@ -1,0 +1,6 @@
+*DS_STORE
+history.yml
+.idea
+test_script.rb
+test_jira_data*.json
+coverage
